@@ -1,6 +1,7 @@
 # Two_Link_Manipulator_SimScape
 
 ![image](https://github.com/user-attachments/assets/3ca66b1e-6388-4142-a377-134cea78dbaa)
+
 Рис. 1 – Двухзвенный манипулятор
 
 ![Снимок экрана от 2025-06-28 09-28-55](https://github.com/user-attachments/assets/afe60e56-0fbf-46cd-949d-d01bbcb0f5f6)
